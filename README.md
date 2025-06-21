@@ -1,1 +1,1 @@
-# PDF Merger - It helps to merge multiple pdf files using a clean drag and drop interface
+# PDF Merger - It helps to merge multiple pdf files using a clean drag and drop interface.
